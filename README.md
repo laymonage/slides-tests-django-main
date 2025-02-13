@@ -1,11 +1,9 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Run your tests against Django's `main`!
 
-To start the slide show:
+Talk given at the Django London Meetup (2025-02-13). Made with [Slidev](https://sli.dev).
 
-- `pnpm install`
-- `pnpm dev`
+View on https://slides.laymonage.com/tests-django-main or run locally with:
+
+- `npm install`
+- `npm run dev`
 - visit <http://localhost:3030>
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev at the [documentation](https://sli.dev/).
