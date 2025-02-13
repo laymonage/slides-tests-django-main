@@ -11,3 +11,26 @@
 .none-leave-to {
   opacity: 0;
 }
+
+.slidev-layout h1 code {
+  color: inherit !important;
+}
+
+blockquote {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+pre.slidev-code {
+  line-height: 1.4 !important;
+}
+
+img {
+  border-radius: 0.15rem;
+}
+
+/*
+pre.slidev-code code {
+  font-size: 9px !important;
+}
+*/
