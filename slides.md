@@ -5,12 +5,11 @@ theme: the-unnamed
 # like them? see https://unsplash.com/collections/94734566/slidev
 # background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: Welcome to Slidev
+title: Run your tests against Django's main!
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
+  ## Run your tests against Django's `main`!
 
-  Learn more at [Sli.dev](https://sli.dev)
+  Talk given at the Django London Meetup (2025-02-13). Made with [Slidev](https://sli.dev).
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
